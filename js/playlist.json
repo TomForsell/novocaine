@@ -1,0 +1,33 @@
+[
+	
+	{
+		"title": "Time to Go",
+		"description": "",
+		"image": "../img/timetogo.jpg",
+		"link": "timetogo.html"
+	},
+	{
+		"title": "Still Hoping",
+		"description": "",
+		"image": "../img/stillhoping.jpg",
+		"link": "stillhoping.html"
+	},
+	{
+		"title": "Dancing EP",
+		"description": "",
+		"image": "../img/dancing.jpg",
+		"link": "dancing.html"
+	},
+	{
+		"title": "Happy Today, Gone Tomorrow",
+		"description": "",
+		"image": "../img/happytoday.jpg",
+		"link": "happytoday.html"
+	},
+	{
+		"title": "Evening Star",
+		"description": "",
+		"image": "../img/evening_star.jpg",
+		"link": "eveningstar.html"
+	}
+]
