@@ -64,7 +64,7 @@
   float: left;
   width: 50%;
 }
-  @media only screen and (min-width : 150px) and (max-width : 780px) {
+  @media only screen and (min-width : 100px) and (max-width : 780px) {
   .floatme {
     float: none;
     width: 100%;
