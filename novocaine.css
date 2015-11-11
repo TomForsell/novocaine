@@ -1,0 +1,184 @@
+.bg-1 { 
+    background-color: #550000;
+    color: #ffffff;
+    height: 100px;
+}
+
+.bg-2 {
+  background-color: #cccccc;
+
+}
+
+.row{
+  min-height: 120px;
+
+}
+
+.tagline {
+    font-size: large;
+    max-width: 100px;
+
+}
+
+
+
+
+img.responsive{width:100%;height:auto}
+
+.smalltext {
+	font-size: 50%
+	
+}
+
+.sectionheader {
+
+  color: #AA3939;
+  max-height: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.lightbg {
+
+  background-color: #eeeeee;
+  
+}
+
+a{
+ color: #550000
+}
+
+a:hover{
+ color: #AA3939
+}
+
+ @media (min-width: 1000px) {
+        .audiocontainer {
+
+    position: relative;
+    padding-bottom: 30%;
+    padding-top: 5px;
+    height: 0;
+    overflow: hidden;
+}
+}
+
+
+@media (min-width:731px) and (max-width: 999px) {
+  .audiocontainer {
+
+  position: relative;
+    padding-bottom: 75%;
+    padding-top: 5px;
+    height: 0;
+    overflow: hidden;
+
+}
+}
+
+@media (min-width:550px) and (max-width:730px) {
+  .audiocontainer {
+
+  position: relative;
+    padding-bottom: 100%;
+    padding-top: 5px;
+    height: 0;
+    overflow: hidden;
+
+}
+}
+
+@media (min-width:450px) and (max-width:549px) {
+  .audiocontainer {
+
+  position: relative;
+    padding-bottom: 125%;
+    padding-top: 5px;
+    height: 0;
+    overflow: hidden;
+
+}
+}
+
+
+@media (min-width:380px) and (max-width:449px) {
+  .audiocontainer {
+
+  position: relative;
+    padding-bottom: 150%;
+    padding-top: 5px;
+    height: 0;
+    overflow: hidden;
+
+}
+}
+
+@media (min-width:100px) and (max-width:379px) {
+  .audiocontainer {
+
+  position: relative;
+    padding-bottom: 175%;
+    padding-top: 5px;
+    height: 0;
+    overflow: hidden;
+
+}
+}
+
+.audiocontainer iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+}
+
+
+
+
+.coveriframe {
+	margin-left: auto ;  margin-right: auto ; height:300px; width:100%;
+}
+
+ @media screen and (max-device-width: 480px) {
+        .coveriframe {
+        	margin-left: auto ;  margin-right: auto ; height:550px; width:100%;
+        }
+      }
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?a95wil');
+	src:url('fonts/icomoon.eot?a95wil#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?a95wil') format('truetype'),
+		url('fonts/icomoon.woff?a95wil') format('woff'),
+		url('fonts/icomoon.svg?a95wil#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: inherit;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tidal:before {
+	content: "\e900";
+}
+.icon-NRKP3_rgb:before {
+	content: "\e901";
+}
+
+
