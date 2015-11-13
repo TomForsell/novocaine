@@ -48,6 +48,10 @@ a{
  color: #550000
 }
 
+a:focus{
+ color: #550000
+}
+
 a:hover{
  color: #AA3939
 }
