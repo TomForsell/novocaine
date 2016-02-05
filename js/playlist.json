@@ -19,6 +19,13 @@
 		"link": "dancing.html"
 	},
 	{
+		"title": "Paradox",
+		"description": "",
+		"image": "../img/paradox.jpg",
+		"link": "paradox.html"
+	},
+
+	{
 		"title": "Happy Today, Gone Tomorrow",
 		"description": "",
 		"image": "../img/happytoday.jpg",
