@@ -80,6 +80,16 @@ src="https://www.facebook.com/tr?id=556917287806541&ev=PageView&noscript=1"
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
   <body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/nb_NO/sdk.js#xfbml=1&version=v2.5";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+  
+  
     <div class="container text-center lightbg">
 
       <div class="row bg-1">
@@ -88,7 +98,14 @@ src="https://www.facebook.com/tr?id=556917287806541&ev=PageView&noscript=1"
         </div>
         <p><span class="tagline">Sad music. For happy people.</span></p>
       </div>
-      
+
+	  <h1 class="sectionheader bg-2">Spread the word</h1>
+	  
+	  <div class="fb-like" data-href="https://www.facebook.com/novocaineband" data-layout="standard" data-action="like" data-show-faces="true" data-share="true">
+	  
+	  </div>
+	  
+	  
           <h1 class="sectionheader bg-2">Listen now</h1>
           <p>
 <div class="audiocontainer">
