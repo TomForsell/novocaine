@@ -20,12 +20,18 @@
 		"link": "dancing.html"
 	},
 	{
+		"title": "No control",
+		"description": "",
+		"image": "../img/cover_nocontrol.jpg",
+		"link": "nocontrol.html"
+	},
+	{
 		"title": "Paradox",
 		"description": "",
 		"image": "../img/paradox.jpg",
 		"link": "paradox.html"
 	},
-
+	
 	{
 		"title": "Happy Today - Gone Tomorrow",
 		"description": "",
